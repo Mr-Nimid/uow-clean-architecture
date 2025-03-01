@@ -1,1 +1,32 @@
+
+## Ignore build results
+bin/
+obj/
+
+## Ignore user-specific files
+.vs/
+.vscode/
+.idea/
+
+## User-specific files
+# Windows Installer files
+Thumbs.db
+Desktop.ini
+
+# JetBrains Rider project files
+.idea/
+
+# Mac OS
 .DS_Store
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer temporary files
+$RECYCLE.BIN/
+
+# Windows Installer logs
+*.log
