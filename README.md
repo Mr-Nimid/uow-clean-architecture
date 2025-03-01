@@ -1,4 +1,4 @@
-# Unit of Work and Repository Pattern with MediatR in Clean Architecture (using .NET 8)
+# Unit of Work and Repository Pattern with MediatR in Clean Architecture (using .NET 9)
 
 This project demonstrates the implementation of the **Unit of Work** and **Repository Pattern** with **MediatR** in a **Clean Architecture** approach using **.NET 8**. The architecture is designed to separate concerns and enable easier maintenance and scalability.
 
