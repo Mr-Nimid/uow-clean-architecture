@@ -12,7 +12,7 @@ This project demonstrates the implementation of the **Unit of Work** and **Repos
 
 - **Api**: Contains controllers that handle HTTP requests.
 - **Application**: Contains business logic, commands, queries, and MediatR handlers.
-- **Domain**: Defines entities, interfaces, and core business rules.
+- **Domain**: Defines entities and core business rules.
 - **Infrastructure**: Provides implementations for data access and services (e.g., repositories).
 
 ## Setup
